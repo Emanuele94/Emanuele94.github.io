@@ -13,7 +13,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/ema
+picture: assets/images/ema.jpg
 #
 # To enable google analytics, supply your token below
 analytics-google: 'UA-132362885-1'
