@@ -13,7 +13,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile
+picture: assets/images/ema
 #
 # To enable google analytics, supply your token below
 analytics-google: 'UA-132362885-1'
@@ -30,7 +30,7 @@ authors:
     name: Emanuele
     bio: A Very Ignorant Guy 
     external-image: false
-    picture: assets/images/Profile.jpg
+    picture: assets/images/ema.jpg
 #
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
